@@ -6,7 +6,7 @@ This project features a deep learning model for toilet rim detection and measure
 
 To input an image of your own and check if it works or not:
 
-download and run the file named: visualize_mask.py (NOTE: make sure to put the correct image path.)
+download and run the file named: [visualize_mask.ipynb](visualize_mask.ipynb) (NOTE: make sure to put the correct image path.)
 
 It will predict the mask on the given toilet image and print the masked image to visualize the rim created.
 
